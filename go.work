@@ -1,0 +1,12 @@
+use (
+    ./1helloworld
+    ./2variables
+    ./3outputfunc
+    ./4arrays
+    ./5slices
+    ./6switch
+    ./7loops
+    ./8function
+    ./9struct
+    ./10maps
+)
